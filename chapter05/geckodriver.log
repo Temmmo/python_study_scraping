@@ -1,0 +1,33 @@
+1503559355942	geckodriver	INFO	geckodriver 0.18.0
+1503559355958	geckodriver	INFO	Listening on 127.0.0.1:56399
+1503559357705	geckodriver::marionette	INFO	Starting browser D:\firefox\firefox.exe with args ["-marionette"]
+1503559360020	Marionette	INFO	Enabled via --marionette
+[GFX1-]: RenderTargetViewNeedsRecreating
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503559364918	Marionette	INFO	Listening on port 56408
+1503559364924	Marionette	INFO	Listening on port 56408
+1503559365123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503559365148	Marionette	DEBUG	loaded listener.js
+1503559365164	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503559365930	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503559365931	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503559367338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://example.webscraping.com/places/default/search"
+1503559367341	Marionette	DEBUG	Received DOM event "pageshow" for "http://example.webscraping.com/places/default/search"
+1503559368384	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+or "about:blank"
+1503559298072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://example.webscraping.com/places/default/search"
+1503559298098	Marionette	DEBUG	Received DOM event "pageshow" for "http://example.webscraping.com/places/default/search"
+1503559298401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1503559313175	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 8040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3892] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 153: TypeError: prefs is undefined
+[GPU 8040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
